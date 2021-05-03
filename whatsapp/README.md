@@ -1,6 +1,6 @@
 # whatsapp
 
-- Clone do whatsapp onde foi  usado tecnologia flutter.
+- Clone do whatsapp, onde foi  usado tecnologia flutter em conjunto com firebase.
 
 ## Getting Started
 
