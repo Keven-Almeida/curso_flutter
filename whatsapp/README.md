@@ -1,10 +1,14 @@
 # whatsapp
 
-- Clone do whatsapp usando flutter.
+- Clone do whatsapp onde foi  usado tecnologia flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- image_picker: ^0.7.4
+- firebase_core: ^1.0.4
+- firebase_auth: ^1.1.1
+- firebase_storage: ^8.0.4
+- cloud_firestore: ^1.0.6
 
 A few resources to get you started if this is your first Flutter project:
 
